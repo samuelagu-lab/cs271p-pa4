@@ -1,0 +1,18 @@
+Practice bonus rooms 1: VALID; returned; search 0.189s
+Your value: 316
+Exact bonus optimum: 316 (matched)
+This public bonus case has an exhaustively verified optimum; private cases differ.
+Practice bonus rooms 2: VALID; returned; search 0.160s
+Your value: 368
+Exact bonus optimum: 368 (matched)
+This public bonus case has an exhaustively verified optimum; private cases differ.
+Practice bonus wall 1: VALID; returned; search 0.041s
+Your value: 76
+Exact bonus optimum: 76 (matched)
+This public bonus case has an exhaustively verified optimum; private cases differ.
+Practice bonus wall 2: VALID; returned; search 0.041s
+Your value: 82
+Exact bonus optimum: 82 (matched)
+This public bonus case has an exhaustively verified optimum; private cases differ.
+Public bonus practice: 5.000/5.
+The private grader uses different cases with the same group weights and rules.

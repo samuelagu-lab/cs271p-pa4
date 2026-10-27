@@ -1,0 +1,96 @@
+one cell: VALID; returned; search 0.042s
+Your value: 0
+Exact tiny optimum: 0 (matched)
+Public reachable target: 0
+Target is zero.
+This comparison does not predict a grade or prove optimality.
+one row: VALID; returned; search 0.018s
+Your value: 0
+Exact tiny optimum: 0 (matched)
+Public reachable target: 0
+Target is zero.
+This comparison does not predict a grade or prove optimality.
+four-cell block: VALID; returned; search 0.018s
+Your value: 4
+Exact tiny optimum: 4 (matched)
+Public reachable target: 4
+Value / target: 100.0%
+This comparison does not predict a grade or prove optimality.
+six-cell still life: VALID; returned; search 0.030s
+Your value: 6
+Exact tiny optimum: 6 (matched)
+Public reachable target: 6
+Value / target: 100.0%
+This comparison does not predict a grade or prove optimality.
+outside-birth boundary check: VALID; returned; search 0.037s
+Your value: 8
+Public reachable target: 4
+Value / target: 200.0%
+This comparison does not predict a grade or prove optimality.
+blocked corner: VALID; returned; search 0.039s
+Your value: 8
+Public reachable target: 4
+Value / target: 200.0%
+This comparison does not predict a grade or prove optimality.
+weighted tiny board: VALID; returned; search 0.033s
+Your value: 37
+Exact tiny optimum: 37 (matched)
+Public reachable target: 37
+Value / target: 100.0%
+This comparison does not predict a grade or prove optimality.
+all blocked: VALID; returned; search 0.020s
+Your value: 0
+Exact tiny optimum: 0 (matched)
+Public reachable target: 0
+Target is zero.
+This comparison does not predict a grade or prove optimality.
+control_scattered 1: VALID; returned; search 2.838s
+Your value: 898
+Public reachable target: 999
+Value / target: 89.9%
+This comparison does not predict a grade or prove optimality.
+control_bands 1: VALID; returned; search 0.233s
+Your value: 674
+Public reachable target: 674
+Value / target: 100.0%
+This comparison does not predict a grade or prove optimality.
+long_strip 1: VALID; returned; search 2.806s
+Your value: 434
+Public reachable target: 291
+Value / target: 149.1%
+This comparison does not predict a grade or prove optimality.
+open_square 1: VALID; returned; search 2.804s
+Your value: 167
+Public reachable target: 163
+Value / target: 102.5%
+This comparison does not predict a grade or prove optimality.
+irregular_islands 1: VALID; returned; search 2.860s
+Your value: 827
+Public reachable target: 572
+Value / target: 144.6%
+This comparison does not predict a grade or prove optimality.
+thin_walls 1: VALID; returned; search 2.861s
+Your value: 816
+Public reachable target: 904
+Value / target: 90.3%
+This comparison does not predict a grade or prove optimality.
+connected_rooms 1: VALID; returned; search 2.831s
+Your value: 801
+Public reachable target: 976
+Value / target: 82.1%
+This comparison does not predict a grade or prove optimality.
+hotspots 1: VALID; returned; search 2.824s
+Your value: 981
+Public reachable target: 1143
+Value / target: 85.8%
+This comparison does not predict a grade or prove optimality.
+wider_strip 1: VALID; returned; search 2.852s
+Your value: 605
+Public reachable target: 450
+Value / target: 134.4%
+This comparison does not predict a grade or prove optimality.
+mixed_components 1: VALID; returned; search 2.863s
+Your value: 1151
+Public reachable target: 1198
+Value / target: 96.1%
+This comparison does not predict a grade or prove optimality.
